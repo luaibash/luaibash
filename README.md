@@ -7,7 +7,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight-duo"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&show_border=false" />
 </picture>
 
 
