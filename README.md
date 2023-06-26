@@ -1,5 +1,5 @@
-[![Luai's GitHub stats](https://github-readme-stats.vercel.app/api?username=luaibash&hide=stars&show_icons=true&theme=radical)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luaibash)]
+![Luai's GitHub stats](https://github-readme-stats.vercel.app/api?username=luaibash&hide=stars&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luaibash)
 ### Hi there 👋
 
 <!--
