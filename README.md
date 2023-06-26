@@ -1,3 +1,4 @@
+[![Luai's GitHub stats](https://github-readme-stats.vercel.app/api?username=luaibash)](https://github.com/luaibash/github-readme-stats)
 ### Hi there 👋
 
 <!--
