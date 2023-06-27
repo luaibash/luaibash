@@ -30,7 +30,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight_duo&border_radius=20"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight_duo&border_radius=20&border=e4e2e2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img width="48%" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luaibash)" />
