@@ -1,12 +1,22 @@
+<h1 align="center"><b>Hi , I'm Luai Bashar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<hr>
+
 <!-- Stats -->
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=20&card_width=450"
+    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=20&card_width=400"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight_duo&rank_icon=github&border_radius=20&card_width=450"
+    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight_duo&rank_icon=github&border_radius=20&card_width=400"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
@@ -26,25 +36,22 @@
 </picture>
 </p>
 
-<!-- Top GIF -->
-<img align="center" alt="Coder GIF" height=350 width=1000 src="https://miro.medium.com/v2/resize:fit:720/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" />
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luaibash&layout=compact) -->
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luaibash&layout=compact)
-### Hi there 👋
+<!-- Links -->
+<div align="center">
+  <a href="https://github.com/luaibash" style="text-decoration:none;">
+    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="" /></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
+  <a href="http://www.linkedin.com/in/luaibashar" style="text-decoration:none;">
+    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="3%" alt="" /></a>
+  <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
+</div>
 
 <!--
-**luaibash/luaibash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
