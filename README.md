@@ -13,11 +13,11 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=20&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=20"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight_duo&rank_icon=github&border_radius=20&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight_duo&rank_icon=github&border_radius=20"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
@@ -26,14 +26,14 @@
 <!-- Streak -->
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight&border_radius=20&hide_border=true"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight&border_radius=20"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight_duo&border_radius=20&hide_border=true"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight_duo&border_radius=20"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="45%" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luaibash)" />
+  <img width="48%" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luaibash)" />
 </picture>
 </p>
 
