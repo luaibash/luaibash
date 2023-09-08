@@ -11,6 +11,8 @@
 
 <!-- Stats -->
 <p align="center">
+<!-- Will not load -->
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&border_radius=20"
@@ -22,6 +24,7 @@
   />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+-->
 
 <!-- Streak -->
 <picture>
