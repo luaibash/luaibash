@@ -14,14 +14,14 @@
 <!-- Will not load -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&border_radius=20"
+    srcset="https://github-readme-stats-vercel-neon.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&border_radius=20"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=20"
+    srcset="https://github-readme-stats-vercel-neon.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=20"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true" />
+  <img width="45%" src="https://github-readme-stats-vercel-neon.vercel.app/api?username=luaibash&show_icons=true" />
 </picture>
 
 <!-- Streak -->
