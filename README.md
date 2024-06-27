@@ -21,7 +21,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=20"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=luaibash&show_icons=true" />
 </picture>
 
 <!-- Streak -->
