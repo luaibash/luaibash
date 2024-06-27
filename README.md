@@ -8,17 +8,16 @@
 </div>
 
 <hr>
-<!--tests-->
 <!-- Stats -->
 <p align="center">
 <!-- Will not load -->
 <picture>
   <source
-    srcset="https://github-readme-stats-vercel-neon.vercel.app/api?username=luaibash&show_icons=true&border_radius=20"
+    srcset="https://github-readme-stats-vercel-neon.vercel.app/api?username=luaibash&show_icons=true&border_radius=20&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-vercel-neon.vercel.app/api?username=luaibash&show_icons=true&rank_icon=github&border_radius=20"
+    srcset="https://github-readme-stats-vercel-neon.vercel.app/api?username=luaibash&show_icons=true&rank_icon=github&border_radius=20&theme=tokyonight"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img width="45%" src="https://github-readme-stats-vercel-neon.vercel.app/api?username=luaibash&show_icons=true" />
