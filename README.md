@@ -2,7 +2,6 @@
 <h4 align="center">An aspiring Mechatronics Engineer studying at McMaster University</h4>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
        alt="snake" /></a>
 </div>
