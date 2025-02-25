@@ -23,6 +23,7 @@
 </picture>
 
 <!-- Streak -->
+<!-- If this doesn't load, for some reason editing and deleting something and adding it back without committing anything and previewing fixes it-->
 <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight&border_radius=20"
