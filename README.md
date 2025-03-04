@@ -25,7 +25,7 @@
 <!-- Streak -->
 <!-- If this doesn't load, for some reason editing and deleting something and adding it back without committing anything and previewing fixes it-->
 <picture>
-<!--   <source
+  <source
     srcset="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight&border_radius=20"
     media="(prefers-color-scheme: dark)"
   />
@@ -33,8 +33,7 @@
     srcset="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight&border_radius=20&border=e4e2e2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="48%" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luaibash)" /> -->
-  <a href="https://git.io/streak-stats"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=luaibash&theme=tokyonight&border_radius=20&border=e4e2e2" alt="GitHub Streak" /></a>
+  <img width="48%" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luaibash)" />
 </picture>
 </p>
 
